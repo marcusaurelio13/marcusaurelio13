@@ -1,6 +1,6 @@
 ## 👋 Hello! Welcome to my Github profile.
 
-### My name is Marcus Aurelio!
+### My name is Marcus Aurélio!
 
 #### Mobile Developer, systems analysis and development student
 
