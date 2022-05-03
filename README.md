@@ -5,8 +5,8 @@
 #### Mobile Developer, systems analysis and development student
 
 ## 👦 About me 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusaltair/)](https://www.linkedin.com/in/matheusaltair/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:matheusaltair13@gmail.com)](mailto:matheusaltair13@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-aurélio-borba-2129b01ba/)](https://www.linkedin.com/in/marcus-aurélio-borba-2129b01ba/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marcusaurelioborba@gmail.com)](mailto:marcusaurelioborba@gmail.com)
 
 ## :computer: Languages | Framework 
 
